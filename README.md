@@ -12,14 +12,14 @@
   - GNU Bash or commonly known as Bash (Bourne-Again SHell) is a command line language used as default login shell for most Linux distros.
   - Bash shell is intergral part of almost every famous Linux and when started greets us with a prompt of dollar sign (**$**)
   
-  `$`
+  ```$```
   
   - Common bash commands let you interact with bash your system in general 
   ```
-  kr17apoorva@HomiesHouse:/mnt/e$ cd Programs
-kr17apoorva@HomiesHouse:/mnt/e/Programs$ ls
-2020_eSwap_1.exe    GrammarlyAddInSetup.exe    PowerISO7-x64.exe  Rainmeter-4.4-r3349-beta.exe  TakeOwnership.zip   nexus.zip
-```
+  kr17apoorva@CybrCrwlr:/mnt/e$ cd Programs
+  kr17apoorva@CybrCrwlr:/mnt/e/Programs$ ls
+  2020_eSwap_1.exe    GrammarlyAddInSetup.exe    PowerISO7-x64.exe  Rainmeter-4.4-r3349-beta.exe  TakeOwnership.zip   nexus.zip
+  ```
 - Elastisearch
 - Redis
 - SQL
