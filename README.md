@@ -46,9 +46,15 @@
 
 ### Refrences
 > https://opensource.com/resources/what-bash
+
 > https://www.quora.com/What-is-Visual-Studio-Code-Why-is-it-used
+
 > https://www.educative.io/courses/master-the-bash-shell/3j8399P3M6M
+
 > https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+
 > https://www.redhat.com/en/topics/linux/what-is-linux
+
 > https://www.linux.com/what-is-linux/
+
 > https://opensource.com/resources/linux
