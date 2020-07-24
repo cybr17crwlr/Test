@@ -16,15 +16,15 @@
   
   - Common bash commands let you interact with bash your system in general 
   ```
-  kr17apoorva@CybrCrwlr:/mnt/e$ cd Programs
-  kr17apoorva@CybrCrwlr:/mnt/e/Programs$ ls
+  /mnt/e$ cd Programs
+  /mnt/e/Programs$ ls
   2020_eSwap_1.exe    GrammarlyAddInSetup.exe    PowerISO7-x64.exe  Rainmeter-4.4-r3349-beta.exe  TakeOwnership.zip   nexus.zip
-  kr17apoorva@CybrCrwlr:/mnt/e/Programs$ cd ..
-  kr17apoorva@CybrCrwlr:/mnt/e$
+  /mnt/e/Programs$ cd ..
+  /mnt/e$
   ```
   - Bash also lets your execute multiple commands using formatting like
   ```
-  kr17apoorva@CybrCrwlr:/mnt/e/Programs$ cd .. && ls
+  /mnt/e/Programs$ cd .. && ls
   ```
   - It also features roboust feature like text editors *vim*, *emacs* and *nano*.
   - Bash scripting is a important feature which helps us make use of scripts and text files ending in **.sh** to automate tasks and execute multiple commands via a single file.
