@@ -19,6 +19,12 @@
   kr17apoorva@CybrCrwlr:/mnt/e$ cd Programs
   kr17apoorva@CybrCrwlr:/mnt/e/Programs$ ls
   2020_eSwap_1.exe    GrammarlyAddInSetup.exe    PowerISO7-x64.exe  Rainmeter-4.4-r3349-beta.exe  TakeOwnership.zip   nexus.zip
+  kr17apoorva@CybrCrwlr:/mnt/e/Programs$ cd ..
+  kr17apoorva@CybrCrwlr:/mnt/e$
+  ```
+  - Bash also lets your execute multiple commands using formatting like
+  ```
+  kr17apoorva@CybrCrwlr:/mnt/e/Programs$ cd .. && ls
   ```
 - Elastisearch
 - Redis
