@@ -47,8 +47,15 @@
   - JavaScript querying is available and various javascript functions can be used to access MongoDB.
   - MongoDB used replica i.e. it maintains various copies of same data so that if the primary collection fails then some secondary collection can be used to access and restore the data.
   - MongoDB also has sharding which helps distributing data over servers.
-- Elastisearch
+- Elasticsearch
+  - Elasticsearch is a distributed, open source search and analytics engine built on Lucene for all types of data, structured or unstructured.
+  - Unlike conventional DBMS which don't support full text searches, Elasitcsearch support full text seaeches very efficiently using indexing.
+  - Indexing is technique where documents with similar features are collected or indexed together for better seraching. before feeding to the database every document is log and indexed in a complex manner which helps ElasticSearch work the way it does.
+  - It uses JSON based REST API to refer to Lucene features.
+  - ElasticSearch does a denormalized document storage near every possible repository where it resides which helps it perform faster searches and make data readily available. 
+  - It comes apcked with two other systems Logstash and Kibana and together build the ELK or Elastic Stack.
 - Redis
+  - 
 - SQL
 - Pandas
 - Flask
@@ -58,16 +65,24 @@
 
 ### Refrences
 > https://opensource.com/resources/what-bash
-> https://www.quora.com/What-is-Visual-Studio-Code-Why-is-it-used
 > https://www.educative.io/courses/master-the-bash-shell/3j8399P3M6M
 > https://en.wikipedia.org/wiki/Bash_(Unix_shell)
+
 > https://www.redhat.com/en/topics/linux/what-is-linux
 > https://www.linux.com/what-is-linux/
 > https://opensource.com/resources/linux
+
+> https://www.quora.com/What-is-Visual-Studio-Code-Why-is-it-used
+
 > https://dev.mysql.com/doc/refman/8.0/en/what-is-mysql.html
 > https://www.siteground.com/tutorials/php-mysql/mysql/
 > https://searchoracle.techtarget.com/definition/MySQL
+
 > https://en.wikipedia.org/wiki/MongoDB
 > https://intellipaat.com/blog/what-is-mongodb/
 > https://www.tutorialspoint.com/mongodb/index.htm
-> 
+
+> https://en.wikipedia.org/wiki/Elasticsearch
+> https://www.elastic.co/what-is/elasticsearch
+> https://towardsdatascience.com/an-overview-on-elasticsearch-and-its-usage-e26df1d1d24a
+> https://qbox.io/blog/what-is-elasticsearch
