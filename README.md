@@ -40,6 +40,13 @@
   - Being in SQL the databases of MySQL can be easily accessed using a commnd line interface including updates, addition or removal of entries or even tables.
   - It works on server based system which can be run on any simple system too which we feed commands to get results in return.
 - MongoDB
+  - MongoDB is a NoSQL database system which stored databases in a flexible, JSON like documents.
+  - It offeres wide variety of datastructres and it not strict in choices of it like MySQL and thus offers a flexible document to document independent database system.
+  - The document to document independent system allows us to store data in key-value pair system where each document can have its own choice of fiels though documents collected together surely need to be realted serving the basic purpose of a database.
+  - It is highly scalable as it is schema and relation free unlike RDBMS.
+  - JavaScript querying is available and various javascript functions can be used to access MongoDB.
+  - MongoDB used replica i.e. it maintains various copies of same data so that if the primary collection fails then some secondary collection can be used to access and restore the data.
+  - MongoDB also has sharding which helps distributing data over servers.
 - Elastisearch
 - Redis
 - SQL
@@ -60,3 +67,7 @@
 > https://dev.mysql.com/doc/refman/8.0/en/what-is-mysql.html
 > https://www.siteground.com/tutorials/php-mysql/mysql/
 > https://searchoracle.techtarget.com/definition/MySQL
+> https://en.wikipedia.org/wiki/MongoDB
+> https://intellipaat.com/blog/what-is-mongodb/
+> https://www.tutorialspoint.com/mongodb/index.htm
+> 
