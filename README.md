@@ -34,6 +34,11 @@
   - It also containts fetaures like Git version management and directly downloading and connecting to git repos online allowing full git management acess inside the environment itself.
   - It has plugins which helps us ease our tasks and supports almost all languages from C++ to Kotlin.
 - MySQL
+  - MySQL is a famous Reltional Database Management System which is based on SQL or Structured Query Language and it open-source.
+  - MySQL stored data in different realted tables rather than one large collection so as to maintain consistency ins searches.
+  - MySQL is open-source so anyone can edit it according ot their needs.
+  - Being in SQL the databases of MySQL can be easily accessed using a commnd line interface including updates, addition or removal of entries or even tables.
+  - It works on server based system which can be run on any simple system too which we feed commands to get results in return.
 - MongoDB
 - Elastisearch
 - Redis
@@ -46,15 +51,12 @@
 
 ### Refrences
 > https://opensource.com/resources/what-bash
-
 > https://www.quora.com/What-is-Visual-Studio-Code-Why-is-it-used
-
 > https://www.educative.io/courses/master-the-bash-shell/3j8399P3M6M
-
 > https://en.wikipedia.org/wiki/Bash_(Unix_shell)
-
 > https://www.redhat.com/en/topics/linux/what-is-linux
-
 > https://www.linux.com/what-is-linux/
-
 > https://opensource.com/resources/linux
+> https://dev.mysql.com/doc/refman/8.0/en/what-is-mysql.html
+> https://www.siteground.com/tutorials/php-mysql/mysql/
+> https://searchoracle.techtarget.com/definition/MySQL
