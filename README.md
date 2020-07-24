@@ -33,7 +33,7 @@
   - Some common features which it uses is Syntax Highlighting, syntactical error detection, code completion and refactoring.
   - It also containts fetaures like Git version management and directly downloading and connecting to git repos online allowing full git management acess inside the environment itself.
   - It has plugins which helps us ease our tasks and supports almost all languages from C++ to Kotlin.
-- MySQL
+- MySQL & SQL
   - MySQL is a famous Reltional Database Management System which is based on SQL or Structured Query Language and it open-source.
   - MySQL stored data in different realted tables rather than one large collection so as to maintain consistency ins searches.
   - MySQL is open-source so anyone can edit it according ot their needs.
@@ -56,12 +56,22 @@
   - It comes apcked with two other systems Logstash and Kibana and together build the ELK or Elastic Stack.
 - Redis
   - 
-- SQL
 - Pandas
+  - Pandas is famous python library which stands for Python Data Analysis Library which gives a lot of intrestin capability to read and write data stored in files inside python environments.
+  - Everything inside pandas is pandas dataframe which refers to a collection of related data in form of tables, generally retrieved from files like **.csv**, **SQL**, **MS Excel** 
+  - Each dataframe is lighter as compared to normally loading the whole data into the system and this is what makes pandas so reliable and fast.
+  - Pandas also offers greate variety of tools to access the data seperate them from coloumns or directly retrieve it for inside numpy or python lists.
+  - It supports features of data handling like insertion and deletion or even splitting and merging different databases.
+  - It has integral options for handling missing datapoints using different kinds of featurs pertaining to the rest of the data.
+  - 
 - Flask
+  - 
 - Tornado
+  - 
 - GCP
+  - 
 - Git & Github
+  - 
 
 ### Refrences
 > https://opensource.com/resources/what-bash
@@ -86,3 +96,7 @@
 > https://www.elastic.co/what-is/elasticsearch
 > https://towardsdatascience.com/an-overview-on-elasticsearch-and-its-usage-e26df1d1d24a
 > https://qbox.io/blog/what-is-elasticsearch
+
+> https://www.educative.io/edpresso/what-is-pandas-in-python
+
+> 
