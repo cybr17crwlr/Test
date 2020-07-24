@@ -9,9 +9,17 @@
   - The most intresting thing about linux is its high customizability and ability for a user to tweak it self according to a users needs with required skills.
   - Linux is mostly associated with a command line interface which gives almost unrestricted access to users which considerd the most important feature of Linux not offered by other OS.
 - Bash
-- VSCode 
-- MySQL
-- MongoDB
+  - GNU Bash or commonly known as Bash (Bourne-Again SHell) is a command line language used as default login shell for most Linux distros.
+  - Bash shell is intergral part of almost every famous Linux and when started greets us with a prompt of dollar sign (**$**)
+  
+  `$`
+  
+  - Common bash commands let you interact with bash your system in general 
+  ```
+  kr17apoorva@HomiesHouse:/mnt/e$ cd Programs
+kr17apoorva@HomiesHouse:/mnt/e/Programs$ ls
+2020_eSwap_1.exe    GrammarlyAddInSetup.exe    PowerISO7-x64.exe  Rainmeter-4.4-r3349-beta.exe  TakeOwnership.zip   nexus.zip
+```
 - Elastisearch
 - Redis
 - SQL
@@ -19,4 +27,4 @@
 - Flask
 - Tornado
 - GCP
-- Git & GitHub
+- Git & Gi
