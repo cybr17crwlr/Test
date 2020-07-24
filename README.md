@@ -26,6 +26,15 @@
   ```
   kr17apoorva@CybrCrwlr:/mnt/e/Programs$ cd .. && ls
   ```
+  - It also features roboust feature like text editors *vim*, *emacs* and *nano*.
+  - Bash scripting is a important feature which helps us make use of scripts and text files ending in **.sh** to automate tasks and execute multiple commands via a single file.
+- VSCode
+  - VSCode or Visual Studio Code is a light, robust source code editing environment which provides us tools and features which helps us work fluently.
+  - Some common features which it uses is Syntax Highlighting, syntactical error detection, code completion and refactoring.
+  - It also containts fetaures like Git version management and directly downloading and connecting to git repos online allowing full git management acess inside the environment itself.
+  - It has plugins which helps us ease our tasks and supports almost all languages from C++ to Kotlin.
+- MySQL
+- MongoDB
 - Elastisearch
 - Redis
 - SQL
@@ -33,4 +42,4 @@
 - Flask
 - Tornado
 - GCP
-- Git & Gi
+- Git & Github
