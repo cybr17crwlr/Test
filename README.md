@@ -105,8 +105,15 @@
   - Any computationally expensive task handled to Tornado is passed on to another thread so that no blocking occurs.
 - GCP
   - 
+  - GCP or Google Cloud Platform is a cloud computing service which ranges from storage to analytics and computational power.
+  - The major GCP services are Google CLoud Storage, Google Cloud Compute and Google Cloud SQL.
+  - Cloud works on server farms managed by comapies which in this case is Google and provide this facilities at a cost.
 - Git & Github
-  - 
+  -
+  - Git is the most famous and widely used version control system for software and source code developers.
+  - Github is a webiste which offers free of cost online Git service for storage and verion control for developers.
+  - Version control is generally used to track changes in files across time and check, revert or refer to any pervious stages of a program.
+  - Git supports non-linear development like code merging and forking thus allowing developers full freedom to experiment with features while maintining thw working version at bay.
 
 ### Refrences
 > https://opensource.com/resources/what-bash
@@ -149,3 +156,8 @@
 >https://www.tornadoweb.org/en/stable/guide/intro.html
 >https://opensource.com/article/18/6/tornado-framework
 >https://www.velotio.com/engineering-blog/python-tornado-guide
+
+>https://kinsta.com/blog/google-cloud-hosting/
+>https://en.wikipedia.org/wiki/Google_Cloud_Platform
+
+>https://en.wikipedia.org/wiki/Git
