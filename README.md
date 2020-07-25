@@ -57,6 +57,15 @@
 - Redis
   - Redis is an open-source, in-memory data storage system used as database and caching system.
   - It also stores data in form of key-value pairs and is fast due because of its ability to build a cache for recently called data.
+  - Redis supports almost all programming langauges which is in use like *C++, Python, Java, C, 
+  - Its caching feature helps in fast data requests and it also used simple server commands to built and access the data like *SET* and *GET*
+  ```
+  127.0.0.1:6379> SET x "Hello"
+  OK
+  127.0.0.1:6379> GET x 
+  "Hello"
+  ```
+  - General datatypes like Strings and List and more complex datasets like sorted lists and hashed tables are supported by Redis.
 - Pandas
   - Pandas is famous python library which stands for Python Data Analysis Library which gives a lot of intrestin capability to read and write data stored in files inside python environments.
   - Everything inside pandas is pandas dataframe which refers to a collection of related data in form of tables, generally retrieved from files like **.csv**, **SQL**, **MS Excel** 
@@ -104,3 +113,4 @@
 > https://codeburst.io/redis-what-and-why-d52b6829813
 > https://en.wikipedia.org/wiki/Redis
 > https://www.educative.io/edpresso/what-is-redis
+> https://redislabs.com/ebook/part-1-getting-started/chapter-1-getting-to-know-redis/1-2-what-redis-data-structures-look-like/1-2-1-strings-in-redis/
