@@ -55,7 +55,8 @@
   - ElasticSearch does a denormalized document storage near every possible repository where it resides which helps it perform faster searches and make data readily available. 
   - It comes apcked with two other systems Logstash and Kibana and together build the ELK or Elastic Stack.
 - Redis
-  - 
+  - Redis is an open-source, in-memory data storage system used as database and caching system.
+  - It also stores data in form of key-value pairs and is fast due because of its ability to build a cache for recently called data.
 - Pandas
   - Pandas is famous python library which stands for Python Data Analysis Library which gives a lot of intrestin capability to read and write data stored in files inside python environments.
   - Everything inside pandas is pandas dataframe which refers to a collection of related data in form of tables, generally retrieved from files like **.csv**, **SQL**, **MS Excel** 
@@ -99,4 +100,7 @@
 
 > https://www.educative.io/edpresso/what-is-pandas-in-python
 
-> 
+> https://redis.io/topics/introduction
+> https://codeburst.io/redis-what-and-why-d52b6829813
+> https://en.wikipedia.org/wiki/Redis
+> https://www.educative.io/edpresso/what-is-redis
