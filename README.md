@@ -38,7 +38,9 @@
   - Some common features which it uses is Syntax Highlighting, syntactical error detection, code completion and refactoring.
   - It also containts fetaures like Git version management and directly downloading and connecting to git repos online allowing full git management acess inside the environment itself.
   - It has plugins which helps us ease our tasks and supports almost all languages from C++ to Kotlin.
+  
 - MySQL & SQL
+  -
   - MySQL is a famous Reltional Database Management System which is based on SQL or Structured Query Language and it open-source.
   - MySQL stored data in different realted tables rather than one large collection so as to maintain consistency ins searches.
   - MySQL is open-source so anyone can edit it according ot their needs.
