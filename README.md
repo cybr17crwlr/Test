@@ -1,7 +1,7 @@
 # Test
 
 - Linux 
--
+  -
   - Refers to the large collection of open-source operating systems based on the famous Linux kernel.
   - The intresting thing about linux is its open source feature and that anyone with appropraite skills can easily edit it and contribute to it.
   - Due to this there are many flavours or distros of linux available out there some of the famous ones being Ubuntu, Mint, Kali and even Android is linux based.
@@ -11,7 +11,7 @@
   - Linux is mostly associated with a command line interface which gives almost unrestricted access to users which considerd the most important feature of Linux not offered by other OS.
 
 - Bash
--
+  -
   - GNU Bash or commonly known as Bash (Bourne-Again SHell) is a command line language used as default login shell for most Linux distros.
   - Bash shell is intergral part of almost every famous Linux and when started greets us with a prompt of dollar sign (**$**)
   
@@ -33,7 +33,7 @@
   - Bash scripting is a important feature which helps us make use of scripts and text files ending in **.sh** to automate tasks and execute multiple commands via a single file.
 
 - VSCode
--
+  -
   - VSCode or Visual Studio Code is a light, robust source code editing environment which provides us tools and features which helps us work fluently.
   - Some common features which it uses is Syntax Highlighting, syntactical error detection, code completion and refactoring.
   - It also containts fetaures like Git version management and directly downloading and connecting to git repos online allowing full git management acess inside the environment itself.
@@ -46,7 +46,7 @@
   - It works on server based system which can be run on any simple system too which we feed commands to get results in return.
 
 - MongoDB
--
+  -
   - MongoDB is a NoSQL database system which stored databases in a flexible, JSON like documents.
   - It offeres wide variety of datastructres and it not strict in choices of it like MySQL and thus offers a flexible document to document independent database system.
   - The document to document independent system allows us to store data in key-value pair system where each document can have its own choice of fiels though documents collected together surely need to be realted serving the basic purpose of a database.
@@ -56,7 +56,7 @@
   - MongoDB also has sharding which helps distributing data over servers.
 
 - Elasticsearch
--
+  -
   - Elasticsearch is a distributed, open source search and analytics engine built on Lucene for all types of data, structured or unstructured.
   - Unlike conventional DBMS which don't support full text searches, Elasitcsearch support full text seaeches very efficiently using indexing.
   - Indexing is technique where documents with similar features are collected or indexed together for better seraching. before feeding to the database every document is log and indexed in a complex manner which helps ElasticSearch work the way it does.
@@ -65,7 +65,7 @@
   - It comes apcked with two other systems Logstash and Kibana and together build the ELK or Elastic Stack.
 
 - Redis
--
+  -
   - Redis is an open-source, in-memory data storage system used as database and caching system.
   - It also stores data in form of key-value pairs and is fast due because of its ability to build a cache for recently called data.
   - Redis supports almost all programming langauges which is in use like *C++, Python, Java, C, 
@@ -79,7 +79,7 @@
   - General datatypes like Strings and List and more complex datasets like sorted lists and hashed tables are supported by Redis.
 
 - Pandas
----------
+  -
   - Pandas is famous python library which stands for Python Data Analysis Library which gives a lot of intrestin capability to read and write data stored in files inside python environments.
   - Everything inside pandas is pandas dataframe which refers to a collection of related data in form of tables, generally retrieved from files like **.csv**, **SQL**, **MS Excel** 
   - Each dataframe is lighter as compared to normally loading the whole data into the system and this is what makes pandas so reliable and fast.
