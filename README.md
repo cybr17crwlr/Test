@@ -91,8 +91,18 @@
   - 
 - Flask
   - 
+  - Flask is a microweb framework written in Python.
+  - Microframeworks like Flask don't come with any dependencies or extensions and it totally user customizable acoording to your needs.
+  - The basic dependencies of Flask is Werkzeug which is WSGI and jinja2 which is a template library.
+  - Flask being a webframework helps you host websites using its extensions and features.
+  - Its is easy to build dynamic webistes with flask and ad dfeatures like form validation and upload handing using extensions.
+
 - Tornado
   - 
+  - Tornado is python web framework built for asynchronous request handling as it works on nonboking network io.
+  - It a webframework not based on the conventional python WSGI. 
+  - Tornado is generally used for handling lot of user request and when long lenght user connections needs to be maintained while handling other requests.
+  - Any computationally expensive task handled to Tornado is passed on to another thread so that no blocking occurs.
 - GCP
   - 
 - Git & Github
@@ -129,3 +139,13 @@
 > https://en.wikipedia.org/wiki/Redis
 > https://www.educative.io/edpresso/what-is-redis
 > https://redislabs.com/ebook/part-1-getting-started/chapter-1-getting-to-know-redis/1-2-what-redis-data-structures-look-like/1-2-1-strings-in-redis/
+
+>https://en.wikipedia.org/wiki/Flask_(web_framework)
+>https://pythonbasics.org/what-is-flask-python/
+>https://www.fullstackpython.com/flask.html
+>https://pymbook.readthedocs.io/en/latest/flask.html
+
+>https://www.tornadoweb.org/en/stable/
+>https://www.tornadoweb.org/en/stable/guide/intro.html
+>https://opensource.com/article/18/6/tornado-framework
+>https://www.velotio.com/engineering-blog/python-tornado-guide
